@@ -44,9 +44,9 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
 
     // Koin
-    implementation("io.insert-koin:koin-core:3.1.2")
-    implementation("io.insert-koin:koin-android:3.1.2")
-    testImplementation("io.insert-koin:koin-test:3.1.2")
+    implementation("io.insert-koin:koin-core:3.4.2")
+    implementation("io.insert-koin:koin-android:3.4.2")
+    testImplementation("io.insert-koin:koin-test:3.4.2")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
